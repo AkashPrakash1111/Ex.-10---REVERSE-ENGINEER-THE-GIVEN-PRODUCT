@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 05-05-2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -34,9 +34,10 @@
 
 ### Output:
 
+![EMPD 44](https://github.com/user-attachments/assets/3edbe522-0b19-43cb-b6db-d70fb0a221f0)
 
-### Name:
-### Register Number:
+### Name: SREE GOVIND SA
+### Register Number: 212224240159
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
